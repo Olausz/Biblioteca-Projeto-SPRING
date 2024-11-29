@@ -36,6 +36,8 @@ public class LivroController {
         livroService.deletarLivroPorId(id);
     }
 
+    @GetMapping("/{id}")
+    @ResponseStatus(HttpStatus.OK)
     public Optional<Livro> BuscarlivroPorId(@PathVariable Long id) {
         return livroService.BuscarlivroPorId(id);
     }
