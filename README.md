@@ -18,7 +18,7 @@ O banco de dados foi projetado com uma estrutura relacional, visando atender às
 
 Livros: Armazena informações sobre os livros disponíveis.<br>
 
-Clientes: Contém dados dos autores relacionados aos Clientess.<br>
+Clientes: Contém dados relacionados aos Clientess.<br>
 
 Livros Comprados: Relaciona Clientes e livros, registrando os empréstimos realizados.<br>
 
