@@ -2,7 +2,6 @@ package br.com.biblioteca.api.service;
 
 
 import br.com.biblioteca.api.model.Cliente;
-import br.com.biblioteca.api.model.Livro;
 import br.com.biblioteca.api.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

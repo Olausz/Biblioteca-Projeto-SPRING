@@ -1,7 +1,6 @@
 package br.com.biblioteca.api.service;
 
 
-import br.com.biblioteca.api.model.Livro;
 import br.com.biblioteca.api.model.LivrosComprados;
 import br.com.biblioteca.api.repository.LivrosCompradosRepository;
 import org.springframework.beans.factory.annotation.Autowired;
