@@ -39,4 +39,5 @@ Criação de Novas Entidades
 
 Adicionar novas funcionalidades como categorias de livros, gerenciamento de funcionários e controle de reservas.
 Ajustar atributos e métodos das entidades atuais para torná-las mais completas e alinhadas com as necessidades do sistema.
-Com essas melhorias, o sistema de biblioteca evoluirá para uma aplicação mais robusta, funcional e com maior valor agregado para os usuários. 🚀
+Com essas melhorias, o sistema de biblioteca evoluirá para uma aplicação mais robusta, funcional e com maior valor agregado para os usuários. 🚀 
+Feito por Saulo Pinto e João Magalhães!
